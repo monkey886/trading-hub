@@ -8,7 +8,8 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.print("Hello and welcome!");
 System.out.print("i am a java developer");
-        System.out.print("i hopr chat with others");
+        System.out.print("i hope chat with others");
+        System.out.print("i am on a new branch");
         //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         for (int i = 1; i <= 5; i++) System.out.println("i = " + i);
